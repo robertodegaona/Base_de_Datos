@@ -142,8 +142,13 @@ El principal uso de este SGBD es para el almacenamiento en memoria caché y la a
 
 
 Las características principales son:
-
 Atomicidad y persistencia
 Gran velocidad
 Simplicidad
 Multiplataforma
+
+* Cassandra
+Al igual que Redis, Cassandra también utiliza almacenamiento clave-valor. Es un SGBD NoSQL distribuido y masivamente escalable.
+
+![image](https://user-images.githubusercontent.com/103066682/168117129-80ebec06-974f-42d6-b983-3238e61857c9.png)
+
