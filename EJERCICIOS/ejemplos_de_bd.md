@@ -32,6 +32,7 @@ Los principales Sistemas gestores de bases de datos relacionales (SGBD SQL) actu
 * MySQL
 Es el sistema gestor de bases de datos relacional por excelencia.
 Es un SGBD multihilo y multiusuario utilizado en la gran parte de las páginas web actuales. Además es el más usado en aplicaciones creadas como software libre.
-https://www.inesem.es/revistadigital/informatica-y-tics/files/2016/01/mysql.jpg?x76792
+![image](https://user-images.githubusercontent.com/103066682/168115202-5718e4f4-02fb-4b6b-8d24-463194316fb7.png)
+
 
 
