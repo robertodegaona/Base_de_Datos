@@ -104,5 +104,31 @@ Potente entorno gráfico de administración que permite utilizar comandos DDL y 
 Aunque es nativo para Windows puede utilizarse desde hace ya un tiempo en otras plataformas como Linux o Docker.
 Su principal desventaja es el precio. Cuenta con un plan gratuito (Express) pero lo normal es la elección de alguno de los planes de pago disponibles (Standard, Developer, Enterprise o SQL Azure, la versión de SQL Server en la nube).
 
+##Sistemas Gestores de bases de datos No Relacionales (NoSQL)
+Una base de datos no relacional (NoSQL) es aquella base de datos que:
 
+No requiere de estructuras de datos fijas como tablas
+No garantiza completamente las características ACID
+Escala muy bien horizontalmente.
+Se utilizan en entornos distribuidos que han de estar siempre disponibles y operativos y que gestionan un importante volumen de datos.
 
+Para la administración de este tipo de bases de datos, actualmente los principales sistemas gestores de bases de datos (SGBD NoSQL) son:
+
+*MongoDB
+Estamos ante el Sistema Gestor de Bases de Datos no relacionales (SGBD NoSQL) más popular y utilizado actualmente.
+
+MongoDB es un SBGD NoSQL orientado a ficheros que almacena la información en estructuras BSON con un esquema dinámico que permite su facilidad de integración.
+
+Empresas como Google, Facebook, eBay, Cisco o Adobe utilizan MongoDB como Sistema Gestor de Bases de datos.
+
+![image](https://user-images.githubusercontent.com/103066682/168116663-3d4dd32d-5a8e-40fd-81bc-1b6f59e9231e.png)
+
+Las principales características de MongoDB son:
+
+Indexación y replicación
+Balanceo de carga
+Almacenamiento en ficheros
+Consultas ad hoc
+Escalabilidad horizontal
+Open Source
+Como desventaja principal, MongoDB no es un SGBD adecuado para realizar transacciones complejas.
