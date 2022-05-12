@@ -33,6 +33,21 @@ Los principales Sistemas gestores de bases de datos relacionales (SGBD SQL) actu
 Es el sistema gestor de bases de datos relacional por excelencia.
 Es un SGBD multihilo y multiusuario utilizado en la gran parte de las páginas web actuales. Además es el más usado en aplicaciones creadas como software libre.
 ![image](https://user-images.githubusercontent.com/103066682/168115202-5718e4f4-02fb-4b6b-8d24-463194316fb7.png)
+Se ofrece bajo la GNU GPL aunque también es posible adquirir una licencia para empresas que quieran incorporarlo en productos privativos (Desde la compra por parte de Oracle se está orientando a este ámbito empresarial).
+
+Las principales ventajas de este Sistema Gestor de Bases de datos son:
+
+Facilidad de uso y gran rendimiento
+Facilidad para instalar y configurar
+Soporte multiplataforma
+Soporte SSL
+La principal desventaja es la escalabilidad, es decir, no trabaja de manera eficiente con bases de datos muy grandes que superan un determinado tamaño.
+
+*MariaDB
+Este SGBD es una derivación de MySQL que cuenta con la mayoría de características de este e incluye varias extensiones.
+
+Nace a partir de la adquisición de MySQL por parte de Oracle para seguir la filosofía Open Source y tiene la ventaja de que es totalmente compatible con MySQL.
+![image](https://user-images.githubusercontent.com/103066682/168115488-f4687c55-0df0-4298-8af0-ef4ba8749e0b.png)
 
 
 
