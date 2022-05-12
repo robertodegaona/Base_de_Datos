@@ -64,5 +64,22 @@ Más que un Sistema Gestor de bases de datos como tal, SQLite es una biblioteca 
 ![image](https://user-images.githubusercontent.com/103066682/168115693-70f6eefb-5d16-4ee3-b4ed-13e2dc62fcb8.png)
 
 
+Es una biblioteca utilizada en multitud de aplicaciones actuales ya que es open source y las consultas son muy eficientes.
+
+Las principales características de SQLite son:
+
+El tamaño, al tratarse de una biblioteca, es mucho menor que cualquier SGBD
+Reúne los cuatro criterios ACID (Atomicidad, Consistencia, Aislamiento y Durabilidad) logrando gran estabilidad
+Gran portabilidad y rendimiento
+La gran desventaja de SQLite es la escalabilidad ya que no soporta bases de datos que sean muy grandes.
+
+
+* PostgreSQL
+Este sistema gestor de base de datos relacional está orientado a objetos y es libre, publicado bajo la licencia BSD.
+
+![image](https://user-images.githubusercontent.com/103066682/168115938-5ffe3089-29db-404b-a295-74992ad7f592.png)
+
+
+
 
 
