@@ -79,7 +79,30 @@ Este sistema gestor de base de datos relacional está orientado a objetos y es l
 
 ![image](https://user-images.githubusercontent.com/103066682/168115938-5ffe3089-29db-404b-a295-74992ad7f592.png)
 
+Sus principales características son:
 
+Control de Concurrencias multiversión (MVCC)
+Flexibilidad en cuanto a lenguajes de programación
+Multiplataforma
+Dispone de una herramienta (pgAdmin, https://www.pgadmin.org/) muy fácil e intuitiva para la administración de las bases de datos.
+Robustez, Eficiencia y Estabilidad.
+La principal desventaja es la lentitud para la administración de bases de datos pequeñas ya que está optimizado para gestionar grandes volúmenes de datos.
+
+*Microsoft SQL Server
+Es un sistema gestor de bases de datos relacionales basado en el lenguaje Transact-SQL, capaz de poner a disposición de muchos usuarios grandes cantidades de datos de manera simultánea.
+
+![image](https://user-images.githubusercontent.com/103066682/168116132-a7c7b96f-397c-42e4-8b86-bdb70be159e8.png)
+
+
+
+Es un sistema propietario de Microsoft. Sus principales características son:
+
+Soporte exclusivo por parte de Microsoft.
+Escalabilidad, estabilidad y seguridad.
+Posibilidad de cancelar consultas.
+Potente entorno gráfico de administración que permite utilizar comandos DDL y DML.
+Aunque es nativo para Windows puede utilizarse desde hace ya un tiempo en otras plataformas como Linux o Docker.
+Su principal desventaja es el precio. Cuenta con un plan gratuito (Express) pero lo normal es la elección de alguno de los planes de pago disponibles (Standard, Developer, Enterprise o SQL Azure, la versión de SQL Server en la nube).
 
 
 
