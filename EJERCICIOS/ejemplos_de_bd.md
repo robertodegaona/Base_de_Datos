@@ -47,7 +47,22 @@ La principal desventaja es la escalabilidad, es decir, no trabaja de manera efic
 Este SGBD es una derivación de MySQL que cuenta con la mayoría de características de este e incluye varias extensiones.
 
 Nace a partir de la adquisición de MySQL por parte de Oracle para seguir la filosofía Open Source y tiene la ventaja de que es totalmente compatible con MySQL.
+
 ![image](https://user-images.githubusercontent.com/103066682/168115488-f4687c55-0df0-4298-8af0-ef4ba8749e0b.png)
+
+Entre las principales características de este Sistema Gestor de Bases de datos se encuentran:
+
+Aumento de motores de almacenamiento
+Gran escalabilidad
+Seguridad y rapidez en transacciones
+Extensiones y nuevas características relacionadas con su aplicación para Bases de datos NoSQL.
+No tiene desventajas muy aparentes salvo algunas pequeñas incompatibilidades en la migración de MariaDB y MySQL o pequeños atrasos en la liberación de versiones estables.
+
+* SQLite
+Más que un Sistema Gestor de bases de datos como tal, SQLite es una biblioteca escrita en C que implementa un SGBD y que permite transacciones sin necesidad de un servidor ni configuraciones.
+
+![image](https://user-images.githubusercontent.com/103066682/168115693-70f6eefb-5d16-4ee3-b4ed-13e2dc62fcb8.png)
+
 
 
 
