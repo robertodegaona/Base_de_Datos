@@ -132,3 +132,18 @@ Consultas ad hoc
 Escalabilidad horizontal
 Open Source
 Como desventaja principal, MongoDB no es un SGBD adecuado para realizar transacciones complejas.
+
+* Redis
+Redis está basado en el almacenamiento clave-valor. Podríamos verlo como un vector enorme que almacena todo tipo de datos, desde cadenas, hashses, listas, etc.
+
+El principal uso de este SGBD es para el almacenamiento en memoria caché y la administración de sesiones.
+
+![image](https://user-images.githubusercontent.com/103066682/168116908-91230e6e-5231-4f80-8708-39900637d892.png)
+
+
+Las características principales son:
+
+Atomicidad y persistencia
+Gran velocidad
+Simplicidad
+Multiplataforma
