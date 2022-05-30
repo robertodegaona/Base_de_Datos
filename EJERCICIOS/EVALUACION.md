@@ -83,4 +83,4 @@ fecha, número de páginas y el número de ejemplares vendidos.
 
 
 
-https://www.db-fiddle.com/f/nTPU7RfM7wgUbvuqATu4Wi/5
+https://www.db-fiddle.com/f/nTPU7RfM7wgUbvuqATu4Wi/6
