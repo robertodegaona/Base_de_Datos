@@ -37,5 +37,4 @@ un código de categoría único.
 
 
 
-https://www.db-fiddle.com/f/wRqYLqogkxPWy3eenUeoVb/0
-
+https://www.db-fiddle.com/f/wRqYLqogkxPWy3eenUeoVb/1
