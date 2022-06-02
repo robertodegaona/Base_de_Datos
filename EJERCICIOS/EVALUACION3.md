@@ -29,6 +29,9 @@ Ejercicio:
 
 1. Calcula el número total de productos que hay en la tabla productos. (valor 4.5)
 
+![image](https://user-images.githubusercontent.com/103066682/171660528-752f020e-9f01-4b7e-8e30-433b8041a0b1.png)
+
+
 
 2. Muestra el número total de productos que tiene cada uno de los fabricantes. El listado
 también debe incluir los fabricantes que no tienen ningún producto. El resultado
