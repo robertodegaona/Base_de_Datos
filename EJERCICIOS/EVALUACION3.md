@@ -18,6 +18,8 @@ es un sistema de informacion que agrega y combina la informacion de diferentes f
 
 3. Realiza un diseño del modelo copo de nieve (valor 2)
 
+![image](https://user-images.githubusercontent.com/103066682/171659216-9062e7a7-d1b6-4248-b5e6-7cc2cc5af12e.png)
+
 
 ## Práctica 7
 ### Funciones en SQL
