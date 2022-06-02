@@ -13,7 +13,8 @@ es un sistema de informacion que agrega y combina la informacion de diferentes f
 
 2. Realiza un diseño del modelo en estrella (valor 2)
 
-![image](https://user-images.githubusercontent.com/103066682/171658533-9177d251-6d8e-467b-b68c-33af1beb3042.png)
+![image](https://user-images.githubusercontent.com/103066682/171661678-ec1e8575-56db-4eb6-b309-4364450d87a6.png)
+
 
 
 3. Realiza un diseño del modelo copo de nieve (valor 2)
