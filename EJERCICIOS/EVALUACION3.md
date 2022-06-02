@@ -34,6 +34,9 @@ Ejercicio:
 ![image](https://user-images.githubusercontent.com/103066682/171660528-752f020e-9f01-4b7e-8e30-433b8041a0b1.png)
 
 
+![image](https://user-images.githubusercontent.com/103066682/171662034-c51087fa-86c8-4347-8323-32c8f066212b.png)
+
+
 
 2. Muestra el número total de productos que tiene cada uno de los fabricantes. El listado
 también debe incluir los fabricantes que no tienen ningún producto. El resultado
