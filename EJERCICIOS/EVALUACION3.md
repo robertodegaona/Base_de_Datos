@@ -62,9 +62,10 @@ datos que se solicitan. (valor 4.5)
 precio medio y el número total de productos de los fabricantes que tienen un precio
 medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4.5)
 
-![image](https://user-images.githubusercontent.com/103066682/171670515-410313fe-c674-4d5b-8a76-9886c46ff384.png)
+![image](https://user-images.githubusercontent.com/103066682/171890324-11fb37e1-22b3-4ae0-bd4f-60519ff26fe7.png)
 
-![image](https://user-images.githubusercontent.com/103066682/171670585-23bc3d4b-d8f3-4019-8433-9bfd47db1da2.png)
+![image](https://user-images.githubusercontent.com/103066682/171890608-37e908cc-bc95-4bc1-8ed7-09469c7d8779.png)
+
 
 
 
